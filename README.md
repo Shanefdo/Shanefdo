@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - This file contains the new branch changes
+- Change parallel
